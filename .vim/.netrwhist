@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/export/cuiyongxiong/first_day/cuiyongxiong/sessionTrain/conf'
+let g:netrw_dirhist_2='/export/cuiyongxiong/first_day/cuiyongxiong/userInfoPressure'
+let g:netrw_dirhist_3='/export/cuiyongxiong/offline_train/cuiyongxiong/app_log_work_auto/feature_hour'
+let g:netrw_dirhist_4='/export/cuiyongxiong/offline_train/cuiyongxiong/app_log_work_auto/genSessionLike'
+let g:netrw_dirhist_5='/export/cuiyongxiong/offline_train/cuiyongxiong/app_log_work_auto/gen_vocab_works'
+let g:netrw_dirhist_6='/export/cuiyongxiong/lightfram/ndev/LightFarm/model_team/tensorflow/python/ops'
+let g:netrw_dirhist_7='/export/App/training_platform/PinoModel/logs'

@@ -1,0 +1,1 @@
+/export/cuiyongxiong/bin/blade/vim/ftdetect/blade.vim

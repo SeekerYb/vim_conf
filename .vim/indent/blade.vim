@@ -1,0 +1,1 @@
+/export/cuiyongxiong/bin/blade/vim/indent/blade.vim

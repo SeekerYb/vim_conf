@@ -1,0 +1,1 @@
+/export/cuiyongxiong/bin/blade/vim/syntax/blade.vim
