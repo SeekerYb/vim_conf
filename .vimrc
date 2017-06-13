@@ -1,6 +1,9 @@
 execute pathogen#infect()
 
-"  for Vundle
+call pathogen#infect()
+call pathogen#helptags()
+
+" for Vundle
 set nocompatible         " be iMproved
 filetype off             " required!
 
@@ -27,7 +30,7 @@ set showmatch
 set incsearch
 set backspace=indent,eol,start
 set encoding=utf-8 fileencodings=ucs-bom,utf-8,cp936
-
+let mapleader=","
 
 
 " for Tagbar
@@ -42,3 +45,4 @@ filetype plugin on
 "colorscheme molokai
 set background=dark
 colorscheme solarized
+
