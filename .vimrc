@@ -25,6 +25,7 @@ set autoindent
 set smartindent
 set tabstop=2
 set shiftwidth=2
+set scrolloff=10
 set expandtab
 set showmatch
 set incsearch
